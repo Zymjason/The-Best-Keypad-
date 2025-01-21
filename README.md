@@ -1,34 +1,33 @@
-# 感谢使用由Zym_Jason制作的“最好的键位”
-## Readme语言
-中文_简体中文
-English
-### 使用前有一些说明
-1. 预发行版和发行版请在release中查看并下载使用
-2. 本项目主要文件为以.json结尾的JavaScript文件使用前请务必仔细阅读使用方式和注意事项！
-3. 本程序理论上仅兼容[FCL](https://github.com/FCL-Team/FoldCraftLauncher)(制作和测试使用FCL1.1.9.9)其他如[Pojav](https://github.com/PojavLauncherTeam/PojavLauncher),[HMCL PE](https://github.com/HMCL-dev/HMCL-PE),[MCinaBox](https://github.com/AOF-Dev/MCinaBox)等启动器未尝试,在这些版本及FCL其他版本不确定可以正常稳定运行,如果可以,请帮助我测试并在issue提出兼容性报告,再次对这些人提前表示感谢!
-4.意见和建议请在issue提出，bug请在issue提出，如有个人问题，本人无义务解答，但会尽力帮助对于启动器问题请到相关项目寻找解决方案。
-5.本键位使用FCL可视化设计制作应属于FCL衍生项目，故严格遵守GNU GPL V.3.0开源协议。注意本项目beta版禁止外传及分享以及更改，由于项目不完善及其他问题，感谢理解！
-6.对于二次开发和更改，对于个人使用而言，可根据个人情况更改，但出现问题本人无义务帮助，但如果要上传及分享，最好从项目拉取更改再上传，如不变,也需遵守有关开源协议。由于未遵守协议引发的纠纷，本人概不负责，二次开发的请遵循本项目版本号规则，方便管理使用。
-### 使用方法和注意事项(以FCL1.1.9.9/1.20.4无模组为例)
-1. 从release上下载最新版本的.Json文件
-2. 打开FCL点击键位设置，点击添加键位，选择刚刚下载的文件。
-3. 对于普通玩家请勿打开编辑模式，选择你想游玩的版本并启动即可。
-4. 等待直至主页面打开，将功能菜单浮窗放在"Put The botton here"建议打开陀螺仪。
-5. 打开你要游玩的世界，等待游戏加载。
-6. 选择布局模式(说明:Build模式:建造模式用于生存及创造建设，推荐生存玩家使用;pvp模式:打斗模式用于进行一些如起床战争等服务器小游戏，即时战争类键位布局;Admin模式推荐服主使用;VM模式:录制模式用于录制一直前进的运镜)
-7. 请注意在使用前请调整键位绑定详见:
-8. VM模式说明:使用方法在游戏内打开设置，打开按键绑定，将电影视角绑定为k，按zl开始自动移动，按后开始录像，请注意打开隐藏按键选项,按k可以使视角变化更加可控，柔和录制完毕将隐藏按钮关闭，然后进行下一步，建议打开陀螺仪以便调整运镜方向
-9. 按sel打开主菜单切换模式
-### 项目未来规划:
-V.0.0.1-0.0.4修复bug/增加一些主流模组键位适配
-V.0.5.0-0.9.9增加多语言/增加setting和about栏/适当调整按键位置
-_注意:以上全部为beta版！_
-V.1.0.0正式版发布
-### 版本号说明
-第一个数字为大版本，第二个数字为发行版版本，第三个数字为测试版版本号。
-### 有关项目及网址
+# Thanks for using "The Best Keys" by Zym_Jason
+## Readme Language
+Chinese_Simplified_ChineseEnglish
+###There are some notes before using
+ 1. Pre-release and release versions please check in the release and download to use
+ 2. The main files of this project are the ones ending in .json JavaScript files before use, please be sure to carefully read the use and precautions. 3!
+3. This program is theoretically only compatible with [FCL](https://github.com/FCL-Team/FoldCraftLauncher) (made and tested using FCL1.1.9.9) other programs such as [Pojav](https://github.com/PojavLauncherTeam/) PojavLauncher), [HMCL PE](https://github.com/HMCL-dev/HMCL-PE), [MCinaBox](https://github.com/AOF-Dev/MCinaBox) and other launchers did not try, in these versions and other versions of FCL not sure can run normally and stably, if you can, please help me test and compatibility report in issue, again these people thank you in advance!
+4. comments and suggestions please put forward in issue, bugs please put forward in issue, if you have personal questions, I am not obliged to answer, but will try to help for the launcher problem please go to the relevant project to find a solution.
+5. This key to use FCL visualization design and production should belong to the FCL derivatives of the project, so strictly abide by the GNU GPL V.3.0 open source agreement. Note that the beta version of this project prohibits outsourcing and sharing as well as changes due to project imperfections and other issues, thank you for your understanding!
+6. For secondary development and change , for personal use , according to personal changes , but the problem I have no obligation to help , but if you want to upload and share , it is best to pull changes from the project and then upload , such as unchanged , but also need to comply with the relevant open-source agreement . As a result of failure to comply with the disputes arising from the agreement, I am not responsible for secondary development, please follow the rules of the project version number, easy to manage the use.
+### Method of use and precautions (FCL1.1.9.9/1.20.4 without modules as an example) 1
+. Download the latest version of the .Json file from release
+ 2. Open the FCL click on the key settings, click on the key to add, and select the file you just downloaded. 3.
+3. For normal players, please don't turn on the edit mode, select the version you want to play and start it. 4.
+4. Wait until the main page opens, place the function menu window on "Put The botton here" and suggest to turn on the gyroscope. 5.
+5. Open the world you want to play and wait for the game to load. 6.
+6. Select the layout mode (Note: Build mode: Build mode is used for survival and creation of construction, recommended for survival players; pvp mode: Fight mode is used for some of the server games such as get up and go wars, real-time war key layout; Admin mode is recommended for service owners; VM mode: Recording mode is used to record all the time to go forward in the operation of the mirror). 7
+. Please note that before you use the keybindings, please adjust the keybindings. VM mode description :
+ how to use the game to open the settings, open the key binding, will be bound to the movie perspective k, press zl to start moving automatically, press after the beginning of the video, please note that the option to open the hidden button, press k can make the perspective change more controllable, soft recording is complete will be closed to hide the button, and then proceed to the next step, it is recommended to turn on the gyroscope in order to adjust the direction of the transport mirror
+ 9. press sel to open the main menu switch mode
+ #### Project future planning: V
+.0.0.1-0.0.4 fix bugs/add some mainstream module key adapters
+ V.0.5.0-0.9.9 add multi-language/add the setting and about columns/adjust the position of the keys appropriately_Note
+: All of the above is the beta version! _V
+.1.0.0 official release
+ ### Version number description
+ The first number is the major version, the second number is the release version, and the third number is the beta version number.
+### About the project and URLs
 
 
 
 
-### 项目文档/Wiki
+ ### Project Documentation/Wiki
